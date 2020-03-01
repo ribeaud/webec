@@ -12,5 +12,5 @@ To import the project, perform the following steps in **IntelliJ IDEA**:
 ![Select Gradle Model](gradle.png)
 
 BTW: 
-We created this [Grails](https://grails.org/) project for you by executing the command: `grails create-app mvc`
+We created this [Grails](https://grails.org/) project for you by executing the command: `grails create-app webec`
 such that **you don't have to create it** yourself, you don't have to install **Grails**, and we all use the same Grails version.
